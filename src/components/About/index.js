@@ -1,6 +1,5 @@
 import {
   AboutHeading,
-  TempleDescription,
   Profiles,
   ProfileName,
   TemplesDescription,
